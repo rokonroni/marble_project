@@ -25,3 +25,33 @@ font-family: 'Roboto Slab', serif;
 .active {
     color: #34c1a5 !important;
 }
+.hero {
+    width: 100%;
+    margin: auto;
+    min-height: 400px;
+    background-image: url("../images/hero_bg.png");
+    position: relative;
+    text-align: center;
+}
+.hero_con {
+    margin: 0px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.hero_con h1 {
+    color: #f3f3f3;
+    font-family: 'Roboto Slab';
+    font-weight: bold;
+}
+.hero_con h3 {
+    color: #a8a8a8;
+    font-weight: 700;
+    margin: 20px 0px;
+
+}
+.hero_con button {
+    text-transform: uppercase;
+    margin: 20px 0px;
+}
