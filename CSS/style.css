@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{  
+font-family: 'Roboto Slab', serif;
+}
+.navbar {
+    font-family: "Roboto Condensed";
+    text-transform: uppercase;
+}
+.navbar-brand{
+    font-weight: 900;
+}
+.head {
+    background-color: #e4e4e4;
+}
+.half {
+    width: 50%;
+    padding: 10px 20px;
+}
+.nav-item a {
+    font-weight:700 ;
+}
+.active {
+    color: #34c1a5 !important;
+}
