@@ -5,9 +5,10 @@
 body{  
 font-family: 'Roboto Slab', serif;
 }
-.navbar {
+.navbar , .portfolio h4{
     font-family: "Roboto Condensed";
     text-transform: uppercase;
+    font-weight: bold;
 }
 .navbar-brand{
     font-weight: 900;
@@ -66,6 +67,13 @@ font-family: 'Roboto Slab', serif;
     height: 100px;
     margin: auto;
 }
-.card h5 {
+ h5 {
     font-weight: 700;
+    font-family: 'Roboto Slab';
+}
+.portfolio {
+    margin-bottom: 20px;
+}
+.portfolio .card-body {
+    padding: 20px 0px;
 }
