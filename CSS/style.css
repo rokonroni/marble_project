@@ -77,3 +77,24 @@ font-family: 'Roboto Slab', serif;
 .portfolio .card-body {
     padding: 20px 0px;
 }
+.speech {
+    background-color: #efefef;
+    
+    padding: 30px 0px;
+}
+.speech_con {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+.speech_con h1 {
+    font-family: 'IM Fell DW Pica SC';
+    font-size: 50px;
+    font-weight: 700;
+    color: #dcdcdc;
+    padding: 0px;
+}
+.speech_con h4 {
+    font-family: "Roboto Slab";
+    color: #dcdcdc;
+}
