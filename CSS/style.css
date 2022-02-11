@@ -91,10 +91,27 @@ font-family: 'Roboto Slab', serif;
     font-family: 'IM Fell DW Pica SC';
     font-size: 50px;
     font-weight: 700;
-    color: #dcdcdc;
+    color: #979494;
     padding: 0px;
 }
 .speech_con h4 {
     font-family: "Roboto Slab";
-    color: #dcdcdc;
+    color: #979494;
+}
+footer {
+    padding: 30px 0px;
+    text-align: justify;
+    background-image: url("/images/Footer_bg.png");
+    color: #aaaaaa;
+}
+footer img {
+    float: left;
+    padding: 5px 10px;
+}
+ footer .devider {
+    min-height: 2px;
+    background-color: #dcdcdc;
+}
+.copy_right {
+    padding-top: 20px;
 }
